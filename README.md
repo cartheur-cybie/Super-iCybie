@@ -8,7 +8,7 @@ Originally inspried by [this](https://aibohack.com/icybie/sic_rs232.htm) source.
 
 ### Support
 
-For this to work there are two forms of conenction:
+For this to work there are two forms:
 
 _RS-232_
 
