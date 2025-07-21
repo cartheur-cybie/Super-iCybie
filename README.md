@@ -26,7 +26,7 @@ _FTDI_
 
 Using the FT232RL and direct connectivity to the installed serial port these [drivers](https://ftdichip.com/drivers/d2xx-drivers/) are needed. Details regarding its use on RaspberryPi will be discussed.
 
-IMAGE
+![ft232rl](/images/FT232RL.png)
 
 Where the connection between `Tx` and `Rx` on the CMOS-level system and the iCybie is:
 
