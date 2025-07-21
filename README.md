@@ -44,3 +44,6 @@ Where the connection between a serial port terminal and the iCybie is through a 
 
 ![serial](/images/serialconnect.jpg)
 
+### Specifications
+
+These are listed [here](/spec/README.md).
