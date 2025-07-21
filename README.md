@@ -2,6 +2,8 @@
 
 An upgrade path to of increased utility via connectivity and development.
 
+![lab](/images/evening-lab.png)
+
 ### Background
 
 Originally inspried by [this](https://aibohack.com/icybie/sic_rs232.htm) source.
@@ -18,4 +20,10 @@ _FTDI_
 
 Using the FT232RL and direct connectivity to the installed serial port these [drivers](https://ftdichip.com/drivers/d2xx-drivers/) are needed. Details regarding its use on RaspberryPi will be discussed.
 
+### Motherboard
 
+The iCybie motherboard is exhibited as a property of location of element on each side:
+
+![top](/images/boardtop.jpg)
+
+![bottom](/images/boardbottom.jpg)
