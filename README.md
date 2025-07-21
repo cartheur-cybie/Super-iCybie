@@ -6,7 +6,9 @@ An upgrade path to of increased utility via connectivity and development.
 
 ### Background
 
-Originally followed [this](https://aibohack.com/icybie/sic_rs232.htm) source.
+Originally followed [this](https://aibohack.com/icybie/sic_rs232.htm) source. The layout is demonstrated as:
+
+![layout](/images/connections.jpg)
 
 ### Communication
 
@@ -15,6 +17,10 @@ _RS-232_
 Using the MAX233 and the USB-Serial [convertor](https://support.eminent-online.com/hc/en-us/articles/360009538439-EM1016-Download-Drivers). Details regarding its use will be best-utilized on a Windows machine.
 
 ![connection](/images/rs232.jpg)
+
+Where the power connection is only needed if using the MAX233.
+
+![power](/images/powerconnect.jpg)
 
 _FTDI_
 
