@@ -6,11 +6,9 @@ An upgrade path to of increased utility via connectivity and development.
 
 ### Background
 
-Originally inspried by [this](https://aibohack.com/icybie/sic_rs232.htm) source.
+Originally followed [this](https://aibohack.com/icybie/sic_rs232.htm) source.
 
-### Support
-
-For this to work there are two forms:
+### Communication
 
 _RS-232_
 
